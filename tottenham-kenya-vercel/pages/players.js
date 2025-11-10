@@ -1,0 +1,1 @@
+export default function Players(){return <div className='p-8'>Players page placeholder</div>}

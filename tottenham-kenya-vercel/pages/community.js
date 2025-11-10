@@ -1,0 +1,1 @@
+export default function Community(){return <div className='p-8'>Community page placeholder</div>}

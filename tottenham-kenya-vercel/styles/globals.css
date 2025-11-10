@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --tottenham-navy: #132257;
+  --tottenham-white: #ffffff;
+  --kenya-red: #D21034;
+  --kenya-green: #006233;
+  --kenya-black: #000000;
+}
+
+body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }

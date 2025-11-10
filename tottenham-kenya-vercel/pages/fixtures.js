@@ -1,0 +1,1 @@
+export default function Fixtures(){return <div className='p-8'>Fixtures page placeholder</div>}
